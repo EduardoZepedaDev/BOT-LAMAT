@@ -1,0 +1,200 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219931894332@s.whatsapp.net',
+    fromMe: false,
+    id: '3F1E658E866B99E6A1C9',
+    participant: undefined
+  },
+  messageTimestamp: 1733241248,
+  pushName: 'Eduardo Zepeda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Eduardo Zepeda',
+  body: 'Menu',
+  from: '5219931894332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1b183444-30e4-41c6-afd9-cef44f79d02f',
+  keyword: 'key_a7f02b34-a5a7-4022-b7ab-7ece507e9c66',
+  answer: '😁 Bienvenido al ChatBot de TI 👌',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '098a31e771fbe081d1e9dc91671d4cec'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_555e9fca-9ee0-43e7-bb39-d6cf6491cc29',
+  keyword: 'ans_1b183444-30e4-41c6-afd9-cef44f79d02f',
+  answer: 'En que te puedo ayudar:\n' +
+    '1️⃣.-Contactos de TI\n' +
+    '2️⃣.-Enlaces de TI\n' +
+    '3️⃣.-Correo corporativo\n' +
+    '4️⃣.-Tickets\n' +
+    '5️⃣.-Nextcloud\n' +
+    '6️⃣.-Portal de requisiciones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9d7fc7e16ee0ca9c749f4db1bca6ddfa'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219931894332@s.whatsapp.net',
+    fromMe: false,
+    id: '3FF83DE5B6A156012573',
+    participant: undefined
+  },
+  messageTimestamp: 1733241251,
+  pushName: 'Eduardo Zepeda',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Eduardo Zepeda',
+  body: '1',
+  from: '5219931894332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_06e5953d-d5a6-4081-bd25-faa9ca3b5a98',
+  keyword: 'key_ecab59cd-45ef-48cc-933b-17fe0ddb10f7',
+  answer: '👨🏻Juan Miguel Aguirre Paredes -- *Coordinador de TI* -- 📞 9931908780',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '83f9df55a3fcbc71b135256f44c129a8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d91778da-7890-449a-855b-387403556726',
+  keyword: 'ans_06e5953d-d5a6-4081-bd25-faa9ca3b5a98',
+  answer: '👨🏽 Rafael de la Cruz Ramos -- *Auxiliar de TI* -- 📞 9931044174',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '85a3c06e31e021896a9c7e59e549d0e1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1f344aa0-11ee-422a-9fb7-4c525f5a1bb8',
+  keyword: 'ans_d91778da-7890-449a-855b-387403556726',
+  answer: '👨🏽 Izamer Sanchez Perez -- *Auxiliar de TI* -- 📞 9932437599',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6f0f6476360eeb2ea0870f8673589d0a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_46b7ec2d-b72b-4c6c-93bf-929f79a600bc',
+  keyword: 'ans_1f344aa0-11ee-422a-9fb7-4c525f5a1bb8',
+  answer: '👨🏽 Edgar Eduardo Jimenez -- *Becario de TI* -- 📞 9932778223',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a58a5af01f3f25b916af99605a59c4cb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bbde3919-b3b8-4799-a452-ec6f21d38451',
+  keyword: 'ans_46b7ec2d-b72b-4c6c-93bf-929f79a600bc',
+  answer: '🧔🏻‍♂️ Cesar Eduardo Zepeda Melendez -- *Becario de TI* -- 📞 9931894332',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0c9a8bc96494e60c18e48c5d6617bbf1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8e1b3fd0-f091-4bbe-8cf7-a9415c4d4764',
+  keyword: 'ans_bbde3919-b3b8-4799-a452-ec6f21d38451',
+  answer: 'Para regresar al menu, escribe *Menu*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b45ffcf9d6183a55e0c0e0040fbd5f0d'
+}
